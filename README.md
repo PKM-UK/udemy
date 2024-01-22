@@ -1,2 +1,2 @@
 # udemy
-A github repository for the udemy course
+A github repository for the Udemy course
